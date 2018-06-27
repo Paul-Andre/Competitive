@@ -1,0 +1,25 @@
+Discontinued ne true and CategoryID eq 3
+25 eq ReorderLevel
+substringof('pkg', QuantityPerUnit) and substringof(' - ', QuantityPerUnit)
+UnitsOnOrder gt 20
+CategoryID le 3 or UnitsOnOrder ge 4
+4 eq SupplierID or substringof('cans', QuantityPerUnit)
+UnitsInStock lt 4 and SupplierID eq 3
+not Discontinued and UnitsInStock lt 10
+substringof('Dried', ProductName) or substringof('dried', ProductName)
+CategoryID eq 7
+Discontinued eq true
+SupplierID eq 4
+CategoryID eq 2
+substringof('bottle', QuantityPerUnit)
+startswith(ProductName, 'Louisiana')
+UnitsInStock lt 20 and SupplierID eq 1
+ReorderLevel lt 10 and (SupplierID eq 1 or SupplierID eq 3)
+SupplierID eq 2
+Discontinued ne true
+substringof('jar', QuantityPerUnit) or substringof('can', QuantityPerUnit)
+CategoryID le 3 or SupplierID ge 4
+2 ge SupplierID or UnitsOnOrder ge 100
+UnitsOnOrder ge 100
+Discontinued and SupplierID eq 1 and substringof('a', ProductName)
+SupplierID eq 2 or substringof('ml', QuantityPerUnit)
