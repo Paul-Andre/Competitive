@@ -1,0 +1,202 @@
+100 100 100 10
+baaaabaaabcaacaaaabbccbaaacaaaaaabbaaaacbaabbcaaababaaaacacaaaaaaaaaaabbbaaaabbbacbaaaabaacaaccbaaaa
+6 6
+5 8
+1 6
+9 9
+2 2
+1 3
+3 7
+8 9
+0 3
+3 7
+4 8
+5 7
+4 8
+0 7
+4 7
+1 6
+3 7
+0 2
+0 3
+8 9
+1 4
+1 5
+3 9
+4 9
+7 9
+2 8
+2 3
+1 2
+2 6
+3 9
+0 9
+3 9
+0 8
+1 8
+2 6
+5 7
+2 2
+3 7
+2 8
+1 8
+1 8
+0 9
+0 3
+3 7
+1 8
+4 6
+5 9
+2 6
+2 3
+8 9
+0 3
+2 3
+0 5
+1 3
+4 8
+4 6
+3 9
+3 8
+0 6
+0 1
+0 2
+5 5
+0 3
+7 8
+0 8
+2 4
+3 7
+7 9
+6 7
+7 8
+0 9
+5 6
+7 8
+2 8
+1 5
+0 5
+0 6
+0 9
+4 5
+6 8
+5 7
+2 5
+0 6
+3 5
+7 8
+5 6
+0 5
+4 6
+0 9
+1 6
+8 9
+0 8
+0 5
+2 4
+6 9
+5 8
+4 7
+7 7
+0 6
+6 7
+abbaaaabab 19 97
+acaabababa 0 30
+baacabbabb 53 64
+bbcbacbaab 22 66
+aaccbabbba 3 14
+abcaaaabaa 0 12
+baaaaabcca 31 80
+baacbcaaab 38 51
+aaaacaaaba 63 72
+aacbacaaca 11 61
+cabbcaacbc 10 53
+aabccaaaba 37 83
+aabacacaaa 3 58
+aabaaaaaab 30 63
+cbaabcabaa 7 37
+aacaaaaaaa 30 59
+aaaaaaabba 29 56
+aacbaabbaa 77 77
+aacacaaaba 21 38
+baabacaaba 51 62
+aabaaacaab 42 47
+bbabaabaab 88 96
+aabaabaaba 83 94
+ababbabaac 37 90
+aacaabaaab 2 23
+aaacbababa 3 16
+aaabaacaab 35 47
+aabbcaaaba 38 84
+aaaaaacbab 2 4
+accbcabaab 14 49
+bbbaaaabaa 38 94
+babbbaaaca 49 64
+bacabaccba 6 66
+aaaaabaaaa 36 56
+bbacbaabac 34 96
+abaabbaabb 54 87
+aabaabbaba 68 72
+aaaaaacbba 55 76
+aacaabaaba 33 70
+cabbacbcca 78 79
+acabaaaaba 37 92
+aaaabbcbaa 54 77
+aacaaaacaa 33 82
+abaabaacaa 75 84
+aaccbabcbb 39 49
+aacbbbabba 51 66
+baaababbbb 75 76
+aabbaabbba 29 63
+aabbbaaaaa 77 80
+caabaacabc 30 79
+bcaaabaaca 23 71
+acaabbaabb 25 29
+abaabaaaaa 4 48
+aabaacaaab 45 97
+aaaacbccba 3 5
+ababbbccab 24 85
+bcabbaabab 55 78
+aabcbbcaaa 15 25
+acbaabaabc 79 99
+abaabaabcb 48 69
+acabababcc 65 97
+abaccaaaaa 6 53
+aaccbaaccb 8 58
+acbbabaaac 18 51
+bbaaabaaaa 58 73
+aabaaaaaba 28 98
+acbaaaccaa 17 21
+aabaabaaaa 3 99
+aaabaacaaa 58 70
+aaaccaaaca 0 6
+baaaacaacb 3 12
+baabcabaaa 14 28
+aacaccabba 4 75
+bbbaacaaac 56 97
+baabaaabaa 46 64
+bcabaacaab 39 50
+bbcbabaacb 17 68
+abababacaa 46 46
+babaaabbba 73 77
+aaaaabaaaa 7 69
+aaaacaaaba 3 60
+abaaaaaabc 36 93
+acaabacaba 30 76
+aaaacbccca 10 39
+ababaaacbb 7 13
+bbbccaaaaa 19 31
+abbaaaabbc 72 79
+baabbcabab 3 84
+acaaaacabc 29 43
+aacbbaabaa 79 97
+caaacabaaa 42 67
+bcaaaacaba 58 73
+aaacbbbacb 19 29
+aabaabaabb 4 27
+abaaaaabab 74 86
+bbbabaaaaa 12 69
+abbcaaaaac 10 68
+ccbabbbabb 24 92
+aababcbaaa 27 37
+bbabbbaaac 18 57
