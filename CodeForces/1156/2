@@ -1,0 +1,38 @@
+#include <bits/stdc++.h>
+#define _USE_MATH_DEFINES
+#include <cmath> 
+
+using namespace std;
+typedef long long ll;
+
+#ifndef ONLINE_JUDGE
+#  define LOG(x) (cerr << #x << " = " << (x) << endl)
+#else
+#  define LOG(x) 0
+#endif
+
+int n;
+vector<int> G0[212345];
+vector<int> G1[212345];
+
+bool vis0[212345];
+bool vis1[212345];
+
+ll ts0[212345];
+ll ts1[212345];
+
+int main() {
+  cin >> n;
+  for (int i=0 ;i<n-1; i++) {
+    int a, b;
+    bool c;
+    cin >> a>>b>>c;
+    if (!c) {
+    G0[a].push_back(b);
+    G0[b].push_back(a);
+    } else {
+    G1[a].push_back(b);
+    G1[b].push_back(a);
+    }
+  }
+}
