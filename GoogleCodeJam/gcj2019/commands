@@ -1,0 +1,4 @@
+g++ -std=c++11 -Wall -pedantic -g b.cpp && python3 interactive_runner.py python3 testing_tool.py 2 -- ./a.out
+
+g++ -std=c++11 -Wall -pedantic -g a.cpp &&  ./a.out
+
