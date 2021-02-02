@@ -1,0 +1,15 @@
+import heap
+
+while(True):
+    n, b = map(int, input().split())
+    if n==-1:
+        break;
+    a = list(map(int,input().split()))
+    input()
+    rem_ballots = b-n;
+    
+
+
+
+
+
