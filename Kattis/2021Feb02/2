@@ -1,0 +1,30 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+struct Town{
+  int worst;
+  int ballots;
+  int people;
+};
+
+bool operator<=(Town &a, Town &b){
+  return a.worst <= b.worst;
+}
+
+int main() {
+  int n,b;
+  cin>>n>>b;
+  vector<int> a(n);
+  for(auto &aa:a)cin>>aa;
+  priority_queue<Town> q;
+  int rem = b-n;
+  for(auto aa:a){
+    Town t;
+    t.worst = aa;
+    t.ballots = 1;
+    t.people = aa;
+    q.push(t);
+  }
+    
+
+}
