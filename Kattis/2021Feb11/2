@@ -1,0 +1,15 @@
+n,t = map(int, input().split())
+ct = [(input(), input()) for _ in range(n)]
+tot = 0
+for tt in range(47, -1,-1):
+    v = [(c,t) for c,t in ct if t >=tt]
+    v.sort()
+    if len(v) != 0:
+        c,t = v[-1]
+        tot += c
+        ct.remove((c,t))
+print(tot)
+
+    
+
+
