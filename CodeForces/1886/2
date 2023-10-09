@@ -1,0 +1,11 @@
+MOD = 998244353
+
+n,m = map(int, input().split())
+s = input()
+
+def inverse(a):
+    return(a, MOD-2, MOD)
+
+
+toggles = [c == "?" for c in s]
+
