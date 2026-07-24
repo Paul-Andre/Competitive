@@ -1,18 +1,22 @@
 class TreeSortedList<T extends Comparable<T>> {
-  // Note - this version is an attempt to use SBT, but is buggy and may become unbalanced because it doesn't implement the full balancing
+  // Implemented using treap data structure
   static int size(Node n) {
     if (n == null) return 0;
     return n.subtreeSize;
   }
 
+  static Random rand = new Random();
+
   static class Node<T extends Comparable<T>> {
     T value;
+    float priority;
     int subtreeSize;
     Node<T> left;
     Node<T> right;
     Node(T value) {
       this.value = value;
       this.subtreeSize = 1;
+      this.priority = rand.nextFloat();
     }
 
 
@@ -78,21 +82,17 @@ class TreeSortedList<T extends Comparable<T>> {
     }
 
     Node<T> balance() {
-      //       this
-      //  left      right
-      // A    B    C     D
 
       if (left == null && right == null) {
         return this;
       }
       if (right != null) {
-        if (size(left) < size(right.left) || size(left) < size(right.right)) {
+        if (right.priority < priority) {
           return rotateLeft();
-          
         }
       }
       if (left != null) {
-        if (size(right) < size(left.left) || size(right) < size(left.right)) {
+        if (left.priority < priority) {
           return rotateRight();
         }
       }
